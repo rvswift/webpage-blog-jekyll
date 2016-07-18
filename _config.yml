@@ -1,0 +1,42 @@
+url: ""
+baseurl: "/swift-chemistry-home"
+
+# Site settings
+title: Dr. Swift's home page
+email: robvswift@gmail.com
+description: Dr. Swift's landing page
+
+# Site settings: Include footer icons to social networking sites
+rss: # set this to anything for an rss icon
+twitter_username: #
+github_username: rvswift
+facebook_username: #
+linkedin: robert-v-swift-b36b4716
+copyright_site: Robert V Swift
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Gems
+gems: [jekyll-paginate, jekyll-feed]
+
+# Blog settings
+header-img: img/Blog/home.jpg
+blog-title: Science &amp; Education
+paginate: 3
+paginate_path: blog/page:num/
+
+# Blog settings: Include footer icons to social networking sites
+rss: # set this to anything for an rss icon
+twitter_username: #
+github_username: rvswift
+facebook_username: #
+email_username: robvswift@gmail.com
+linkedin: robert-v-swift-b36b4716
+copyright_blog: Robert V Swift
+
+# Enter your Disqus shortname (not your username) to enable
+# commenting on your posts. You can find your shortname on the
+# Settings page of your Disqus account.
+disqus:
